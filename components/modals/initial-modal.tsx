@@ -87,7 +87,7 @@ export const InitialModal = () => {
                                                 {...field}
                                             />
                                         </FormControl>
-                                        <FormMessage>Server name is reuired.</FormMessage>
+                                        <FormMessage />
                                     </FormItem>
                                 )}
                             />
